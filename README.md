@@ -1,6 +1,14 @@
 This is a mod/hack of The Secret of Monkey Island that I made
 
-Instructions:
+Quick way:
+
+1 - Download and extract monkeyModded.zip
+
+2 - Add the folder to ScummVM and play it
+
+
+
+Legally safe way:
 
 1 - You must first have a copy of the CD version of Secret of Monkey Island, at your own discretion
 
